@@ -1,5 +1,5 @@
 # <アプリ名>
-deily
+Deily
 
 ## サイト概要
 最近買ったものを投稿しみんなで共有する
@@ -21,4 +21,3 @@ deily
 
 ### 機能一覧
 https://docs.google.com/spreadsheets/d/1kDNdAhkkLc6foy9-usS-u9rge3Pjmkg-rJjEse--QRo/edit#gid=0
-
